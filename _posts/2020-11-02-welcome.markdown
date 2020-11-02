@@ -1,15 +1,14 @@
 ---
 layout: post
 title:  "Welcome"
-date:   2020-11-02 13:29:00 +0900
-categories: intro
 ---
-##안녕하세요
-###유선영의 블로그입니다.
+# post-sample
+> Hello!
 
-^참고용 샘플내용입니다.^
-~감사합니다.~
-
+This is code
+```ruby
+print 'hello world'
+```
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
