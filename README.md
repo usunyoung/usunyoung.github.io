@@ -1,11 +1,11 @@
 ---
 layout: page
-title: git
+title: Git
 permalink: /git/
 ---
 
-## Git hub setting
-> ±êÇãºê ¼ÂÆÃ
+## git setting
+> Simple and lightweight theme for Jekyll
 
 ### Features
 - Responsive.
