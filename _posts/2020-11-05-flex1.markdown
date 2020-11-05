@@ -4,8 +4,8 @@ title: post-sample
 date: 2020-01-02 19:20:23 +0900
 category: flex
 ---
-# post-sample
-> Hello!
+# Flex
+> ¾È³ç
 
 This is code
 ```ruby
