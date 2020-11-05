@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Flex
-category: /Flex/
+title: post-sample
+date: 2020-01-02 19:20:23 +0900
+category: sample
 ---
-# Flex study
-> Flex ¶õ?
+# post-sample
+> Hello!
 
 This is code
 ```ruby
