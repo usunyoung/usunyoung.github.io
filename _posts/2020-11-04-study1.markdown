@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  Hello
-category: sample
+title:  Welcome
 ---
 # post-sample
-> Hi!
+> Hello!
 
 This is code
 ```ruby
-print 'hello!!!'
+print 'hello world'
 ```
 {% highlight ruby %}
 def print_hi(name)

@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Welcome
-category: sample
 ---
 # post-sample
 > Hello!
