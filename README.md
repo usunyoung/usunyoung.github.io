@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Git
+permalink: /Git/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+## Git hub setting
+> 깃허브 셋팅
 
 ### Features
 - Responsive.
