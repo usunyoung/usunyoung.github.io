@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Git
-permalink: /Git/
+title: git
+permalink: /git/
 ---
 
 ## Git hub setting
