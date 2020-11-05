@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Welcome
-category: sample
+category: Git
 ---
 # post-sample
 > Hello!
