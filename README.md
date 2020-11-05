@@ -5,5 +5,5 @@ permalink: /git/
 ---
 
 ## git setting
-> S
+> sunyoung
 ![alt text](/public/img/screenshot-1.png)
