@@ -21,7 +21,7 @@
 title: 'U'
 email: tjsdud462@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
-  선영이의 블로그입니다.
+  선영이의 블로그입니다
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: usunyoung
