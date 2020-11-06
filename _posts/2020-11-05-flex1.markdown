@@ -5,9 +5,8 @@ date: 2020-11-06
 category: flex
 ---
 # Flex
-> 안녕
+> container 속성
 
-This is code
 ```ruby
-print 'hello world'
+'display:flex;'
 ```
