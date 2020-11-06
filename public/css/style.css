@@ -98,7 +98,7 @@ code {
 	flex: 0 0 220px;
 	padding: 15px;
 	z-index: 1;
-	background-color: #222;
+	background-color: #2d3b4a;
 	color: #fff;
 }
 
@@ -112,14 +112,20 @@ code {
 }
 
 .sidebar-brand > a {
-	font-size: 250%;
+	font-size: 200%;
 	font-family: '"Noto Sans"';
 	color: #fff;
+	letter-spacing:-2px;
+	font-weight:700;
+	text-transform: uppercase;
+
 }
 
 .lead {
 	font-size: 120%;
-	color: #aaa;
+	color: #8594a5;
+	font-family: '"Noto Sans"';
+	letter-spacing:-1px;
 }
 
 .sidebar-header {
