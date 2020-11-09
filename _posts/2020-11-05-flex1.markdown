@@ -13,3 +13,7 @@ display:'flex;'
 ```ruby
 flex-direction:'row;''column;''row-reverse;''column-reverse;'
 ```
+
+{% highlight ruby %}
+flex-direction:'row;''column;''row-reverse;''column-reverse;'
+{% endhighlight %}
