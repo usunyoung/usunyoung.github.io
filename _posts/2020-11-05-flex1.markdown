@@ -8,5 +8,8 @@ category: flex
 > container 속성
 
 ```ruby
-'display:flex;'
+display:'flex;'
+```
+```ruby
+flex-direction:'row;''column;''row-reverse;''column-reverse;'
 ```
