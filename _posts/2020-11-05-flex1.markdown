@@ -10,10 +10,14 @@ category: flex
 ```ruby
 display:'flex;'
 ```
-```ruby
-flex-direction:'row;''column;''row-reverse;''column-reverse;'
-```
-
 {% highlight ruby %}
 flex-direction:'row;''column;''row-reverse;''column-reverse;'
+{% endhighlight %}
+
+{% highlight ruby %}
+flex-wrap:'nowrap;''wrap;''wrap-reverse;'
+{% endhighlight %}
+
+{% highlight ruby %}
+flex-flow:'flex-direction;''flex-wrap;'
 {% endhighlight %}
