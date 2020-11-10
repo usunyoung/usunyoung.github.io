@@ -16,16 +16,16 @@ display:'flex;'
 {% endhighlight %}
 
 {% highlight ruby %}
-flex-wrap:'nowrap;''wrap;''wrap-reverse;'
-줄넘김처리:'줄넘김없음''줄넘김''줄넘김반대'
+"flex-wrap":'nowrap;''wrap;''wrap-reverse;'
+"줄넘김처리":'줄넘김없음''줄넘김''줄넘김반대'
 {% endhighlight %}
 
 {% highlight ruby %}
-flex-flow:'flex-direction;''flex-wrap;'
-단축속성
+"flex-flow":'flex-direction;''flex-wrap;'
+"단축속성"
 {% endhighlight %}
 
 {% highlight ruby %}
-justify-content:'flex-start;''flex-end;''center;''space-between;''space-around;''space-evenly;(ms 지원 x)'
-가로축정렬:'오른쪽정렬''왼쪽정렬''가운데정렬''서로사이의 간격 일정''div를 둘러싼 여백 일정''div사이, 양끝간의 간격 일정'
+"justify-content":'flex-start;''flex-end;''center;''space-between;''space-around;''space-evenly;(ms 지원 x)'
+"가로축정렬":'오른쪽정렬''왼쪽정렬''가운데정렬''서로사이의 간격 일정''div를 둘러싼 여백 일정''div사이, 양끝간의 간격 일정'
 {% endhighlight %}
