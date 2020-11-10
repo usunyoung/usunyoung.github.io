@@ -8,7 +8,7 @@ category: flex
 > container 속성
 
 ```ruby
-display:'flex;'
+"display":'flex;'
 ```
 {% highlight ruby %}
 "flex-direction":'row;''column;''row-reverse;''column-reverse;'
@@ -29,3 +29,14 @@ display:'flex;'
 "justify-content":'flex-start;''flex-end;''center;''space-between;''space-around;''space-evenly;(ms 지원 x)'
 "가로축정렬":'오른쪽정렬''왼쪽정렬''가운데정렬''서로사이의 간격 일정''div를 둘러싼 여백 일정''div사이, 양끝간의 간격 일정'
 {% endhighlight %}
+
+{% highlight ruby %}
+"align-items":'stretch;''flex-start;''flex-end;''center;''baseline;'
+"세로축정렬":'세로100%''시작점 정렬''끝점 정렬''가운데 정렬''텍스트 베이스 라인 정렬'
+{% endhighlight %}
+
+**ex) item 한가운데 놓기**
+```
+justify-content:center;
+align-items:center; 
+```
