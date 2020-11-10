@@ -36,7 +36,7 @@ category: flex
 {% endhighlight %}
 
 **ex) item 한가운데 놓기**
-```
+`
 justify-content:center;
 align-items:center; 
-```
+`
