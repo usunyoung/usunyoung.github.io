@@ -11,8 +11,8 @@ category: flex
 display:'flex;'
 ```
 {% highlight ruby %}
-flex-direction:'row;''column;''row-reverse;''column-reverse;'
-방향설정:'가로''세로''가로반대''세로반대'
+"flex-direction":'row;''column;''row-reverse;''column-reverse;'
+"방향설정":'가로''세로''가로반대''세로반대'
 {% endhighlight %}
 
 {% highlight ruby %}
